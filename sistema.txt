@@ -1,0 +1,5 @@
+Qué información muestra cada comando?
+uname -a: Muestra información general del sistema operativo, como el nombre del sistema, la versión del kernel y la arquitectura del equipo.
+df -h: Muestra el uso y el espacio disponible de los discos en un formato fácil de leer (GB o MB).
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Porque permite verificar el estado del servidor, conocer los recursos disponibles y detectar posibles problemas de almacenamiento o configuración. Esto ayuda a mantener el servidor funcionando de forma estable, segura y eficiente.
